@@ -6,8 +6,98 @@
              mc:Ignorable="d"
              x:Class="SaggezzaApp.MainPage">
 
-    <StackLayout>
-        
-    </StackLayout>
+    
+    <Grid 
+        Padding="0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height = "20"/>
+            <RowDefinition Height = "*"/>
+            <RowDefinition Height = "*"/>
+            <RowDefinition Height = "*"/>
+            <RowDefinition Height = "*"/>
+            <RowDefinition Height = "*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="10"/>
+        </Grid.ColumnDefinitions>
 
+        <Image
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="FillAndExpand"
+                Aspect="AspectFill"
+                Grid.Column="0"
+                Grid.Row="0"
+                Grid.RowSpan="6"
+                Grid.ColumnSpan="5"
+                Source="SaggezzaGreen.png"/>
+
+        <Image
+            Source="logo_saggezza.png"
+            HorizontalOptions="CenterAndExpand"
+            VerticalOptions="Start"
+            Grid.Column="1"
+            Grid.ColumnSpan="3"
+            Grid.Row="1"/>
+
+        <Label 
+            Text="SAGGEZZA" 
+            FontFamily="DINNextLTPro#400" 
+            FontSize="18" 
+            FontAttributes="None" 
+            TextColor="#FF000000"
+            Grid.Row="2"
+            Grid.Column="2"
+            HorizontalOptions="Center"
+            VerticalOptions="Start"/>
+        
+        <Label 
+            Text="Sign In With:" 
+            FontFamily="DINNextLTPro#400" 
+            FontSize="18" 
+            FontAttributes="None" 
+            TextColor="#FF000000"
+            Grid.Row="3"
+            Grid.Column="2"
+            HorizontalOptions="Center"/>
+
+    </Grid>
+
+    <!--<StackLayout 
+        BackgroundColor="#FFFFFFFF"
+        Spacing="10">
+
+        <Image Source="logo_saggezza.png"
+               HorizontalOptions="Center"
+               VerticalOptions="Start"
+               HeightRequest="200"
+               />
+
+        <Frame
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            BackgroundColor="Transparent">
+
+            <StackLayout>
+                <Label 
+                    Text="Sign In With" 
+                    FontFamily="DINNextLTPro#400" 
+                    FontSize="18" 
+                    FontAttributes="None" 
+                    TextColor="#FF000000"/>
+
+                <BoxView 
+                        HorizontalOptions="Center" 
+                        WidthRequest="100" 
+                        HeightRequest="3"
+                        Color="#E5E5E5"
+                        Margin="10"/>
+            </StackLayout>
+            
+        </Frame>
+
+    </StackLayout>-->
 </ContentPage>
