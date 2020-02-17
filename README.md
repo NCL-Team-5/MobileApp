@@ -10,6 +10,6 @@
 
 Right Click on SaggezzaApp (master) folder -> Manage NuGet packages and install the following packages:
 
-[Plugin.CloudFirestore](https://www.nuget.org/packages/Plugin.CloudFirestore/) [![NuGet](https://img.shields.io/nuget/vpre/Plugin.CloudFirestore.svg?label=NuGet)](https://www.nuget.org/packages/Plugin.CloudFirestore/) (Add to all 3 solutions)
+[Plugin.CloudFirestore](https://www.nuget.org/packages/Plugin.CloudFirestore/) [![NuGet](https://img.shields.io/nuget/vpre/Plugin.CloudFirestore.svg?label=NuGet)](https://www.nuget.org/packages/Plugin.CloudFirestore/) (Add to all 3 solutions when prompted)
 
-[Xamarin.Android.Support.Core.Utils](https://www.nuget.org/packages/Xamarin.Android.Support.Core.Utils) [![NuGet](https://img.shields.io/nuget/vpre/Xamarin.Android.Support.Core.Utils.svg?label=NuGet)](https://www.nuget.org/packages/Xamarin.Android.Support.Core.Utils/) (Add to SaggezzaApp.Android)
+[Xamarin.Android.Support.Core.Utils](https://www.nuget.org/packages/Xamarin.Android.Support.Core.Utils) [![NuGet](https://img.shields.io/nuget/vpre/Xamarin.Android.Support.Core.Utils.svg?label=NuGet)](https://www.nuget.org/packages/Xamarin.Android.Support.Core.Utils/) (Add to SaggezzaApp.Android when prompted)
