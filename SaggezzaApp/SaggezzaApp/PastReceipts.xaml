@@ -48,7 +48,6 @@
     <Label
             Text="Descending Order"
             HorizontalTextAlignment="End"
-            Padding="10"
             FontFamily="DINNextLTPro#400"/>
             <Frame HasShadow="true">
                 <Grid>
