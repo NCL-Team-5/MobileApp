@@ -1,33 +1,39 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cameron/Downloads/MobileApp/MobileApp/SaggezzaApp/SaggezzaApp.iOS/SaggezzaApp.iOS.csproj": {}
+    "C:\\Users\\rswif\\source\\repos\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp.iOS\\SaggezzaApp.iOS.csproj": {}
   },
   "projects": {
-    "/Users/cameron/Downloads/MobileApp/MobileApp/SaggezzaApp/SaggezzaApp.iOS/SaggezzaApp.iOS.csproj": {
+    "C:\\Users\\rswif\\source\\repos\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp.iOS\\SaggezzaApp.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cameron/Downloads/MobileApp/MobileApp/SaggezzaApp/SaggezzaApp.iOS/SaggezzaApp.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\rswif\\source\\repos\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp.iOS\\SaggezzaApp.iOS.csproj",
         "projectName": "SaggezzaApp.iOS",
-        "projectPath": "/Users/cameron/Downloads/MobileApp/MobileApp/SaggezzaApp/SaggezzaApp.iOS/SaggezzaApp.iOS.csproj",
-        "packagesPath": "/Users/cameron/.nuget/packages/",
-        "outputPath": "/Users/cameron/Downloads/MobileApp/MobileApp/SaggezzaApp/SaggezzaApp.iOS/obj/",
+        "projectPath": "C:\\Users\\rswif\\source\\repos\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp.iOS\\SaggezzaApp.iOS.csproj",
+        "packagesPath": "C:\\Users\\rswif\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rswif\\source\\repos\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "/Users/cameron/.config/NuGet/NuGet.Config"
+          "C:\\Users\\rswif\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "xamarinios10"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "/Users/cameron/Downloads/MobileApp/MobileApp/SaggezzaApp/SaggezzaApp/SaggezzaApp.csproj": {
-                "projectPath": "/Users/cameron/Downloads/MobileApp/MobileApp/SaggezzaApp/SaggezzaApp/SaggezzaApp.csproj"
+              "C:\\Users\\rswif\\source\\repos\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp.csproj": {
+                "projectPath": "C:\\Users\\rswif\\source\\repos\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp.csproj"
               }
             }
           }
@@ -36,17 +42,13 @@
       "frameworks": {
         "xamarinios10": {
           "dependencies": {
-            "Plugin.CloudFirestore": {
-              "target": "Package",
-              "version": "[2.0.0, )"
-            },
             "Xamarin.Essentials": {
               "target": "Package",
-              "version": "[1.3.1, )"
+              "version": "[1.2.0, )"
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[4.4.0.991640, )"
+              "version": "[4.2.0.709249, )"
             }
           }
         }
@@ -63,22 +65,28 @@
         }
       }
     },
-    "/Users/cameron/Downloads/MobileApp/MobileApp/SaggezzaApp/SaggezzaApp/SaggezzaApp.csproj": {
+    "C:\\Users\\rswif\\source\\repos\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cameron/Downloads/MobileApp/MobileApp/SaggezzaApp/SaggezzaApp/SaggezzaApp.csproj",
+        "projectUniqueName": "C:\\Users\\rswif\\source\\repos\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp.csproj",
         "projectName": "SaggezzaApp",
-        "projectPath": "/Users/cameron/Downloads/MobileApp/MobileApp/SaggezzaApp/SaggezzaApp/SaggezzaApp.csproj",
-        "packagesPath": "/Users/cameron/.nuget/packages/",
-        "outputPath": "/Users/cameron/Downloads/MobileApp/MobileApp/SaggezzaApp/SaggezzaApp/obj/",
+        "projectPath": "C:\\Users\\rswif\\source\\repos\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp.csproj",
+        "packagesPath": "C:\\Users\\rswif\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rswif\\source\\repos\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "/Users/cameron/.config/NuGet/NuGet.Config"
+          "C:\\Users\\rswif\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -101,17 +109,13 @@
               "version": "[2.0.3, )",
               "autoReferenced": true
             },
-            "Plugin.CloudFirestore": {
-              "target": "Package",
-              "version": "[2.0.0, )"
-            },
             "Xamarin.Essentials": {
               "target": "Package",
-              "version": "[1.3.1, )"
+              "version": "[1.2.0, )"
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[4.4.0.991640, )"
+              "version": "[4.2.0.709249, )"
             }
           },
           "imports": [
@@ -124,7 +128,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

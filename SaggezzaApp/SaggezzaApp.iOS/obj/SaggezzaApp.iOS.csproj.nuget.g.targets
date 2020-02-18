@@ -4,8 +4,6 @@
     <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
   </PropertyGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Import Project="$(NuGetPackageRoot)xamarin.forms/4.4.0.991640/build/Xamarin.Forms.targets" Condition="Exists('$(NuGetPackageRoot)xamarin.forms/4.4.0.991640/build/Xamarin.Forms.targets')" />
-    <Import Project="$(NuGetPackageRoot)xamarin.build.download/0.4.11/build/Xamarin.Build.Download.targets" Condition="Exists('$(NuGetPackageRoot)xamarin.build.download/0.4.11/build/Xamarin.Build.Download.targets')" />
-    <Import Project="$(NuGetPackageRoot)plugin.cloudfirestore/2.0.0/build/Plugin.CloudFirestore.targets" Condition="Exists('$(NuGetPackageRoot)plugin.cloudfirestore/2.0.0/build/Plugin.CloudFirestore.targets')" />
+    <Import Project="C:\Microsoft\Xamarin\NuGet\xamarin.forms\4.2.0.709249\build\Xamarin.Forms.targets" Condition="Exists('C:\Microsoft\Xamarin\NuGet\xamarin.forms\4.2.0.709249\build\Xamarin.Forms.targets')" />
   </ImportGroup>
 </Project>
