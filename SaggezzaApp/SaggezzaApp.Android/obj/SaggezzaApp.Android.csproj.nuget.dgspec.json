@@ -1,39 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rswif\\source\\repos\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp.Android\\SaggezzaApp.Android.csproj": {}
+    "/Users/saidhajhassan/Projects/MobileApp/SaggezzaApp/SaggezzaApp.Android/SaggezzaApp.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rswif\\source\\repos\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp.Android\\SaggezzaApp.Android.csproj": {
+    "/Users/saidhajhassan/Projects/MobileApp/SaggezzaApp/SaggezzaApp.Android/SaggezzaApp.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rswif\\source\\repos\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp.Android\\SaggezzaApp.Android.csproj",
+        "projectUniqueName": "/Users/saidhajhassan/Projects/MobileApp/SaggezzaApp/SaggezzaApp.Android/SaggezzaApp.Android.csproj",
         "projectName": "SaggezzaApp.Android",
-        "projectPath": "C:\\Users\\rswif\\source\\repos\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp.Android\\SaggezzaApp.Android.csproj",
-        "packagesPath": "C:\\Users\\rswif\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rswif\\source\\repos\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp.Android\\obj\\",
+        "projectPath": "/Users/saidhajhassan/Projects/MobileApp/SaggezzaApp/SaggezzaApp.Android/SaggezzaApp.Android.csproj",
+        "packagesPath": "/Users/saidhajhassan/.nuget/packages/",
+        "outputPath": "/Users/saidhajhassan/Projects/MobileApp/SaggezzaApp/SaggezzaApp.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\rswif\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/saidhajhassan/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "monoandroid90"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\rswif\\source\\repos\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp.csproj": {
-                "projectPath": "C:\\Users\\rswif\\source\\repos\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp.csproj"
+              "/Users/saidhajhassan/Projects/MobileApp/SaggezzaApp/SaggezzaApp/SaggezzaApp.csproj": {
+                "projectPath": "/Users/saidhajhassan/Projects/MobileApp/SaggezzaApp/SaggezzaApp/SaggezzaApp.csproj"
               }
             }
           }
@@ -58,28 +52,25 @@
         }
       }
     },
-    "C:\\Users\\rswif\\source\\repos\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp.csproj": {
+    "/Users/saidhajhassan/Projects/MobileApp/SaggezzaApp/SaggezzaApp/SaggezzaApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rswif\\source\\repos\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp.csproj",
+        "projectUniqueName": "/Users/saidhajhassan/Projects/MobileApp/SaggezzaApp/SaggezzaApp/SaggezzaApp.csproj",
         "projectName": "SaggezzaApp",
-        "projectPath": "C:\\Users\\rswif\\source\\repos\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp.csproj",
-        "packagesPath": "C:\\Users\\rswif\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rswif\\source\\repos\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp\\obj\\",
+        "projectPath": "/Users/saidhajhassan/Projects/MobileApp/SaggezzaApp/SaggezzaApp/SaggezzaApp.csproj",
+        "packagesPath": "/Users/saidhajhassan/.nuget/packages/",
+        "outputPath": "/Users/saidhajhassan/Projects/MobileApp/SaggezzaApp/SaggezzaApp/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\rswif\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/saidhajhassan/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -121,7 +112,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
         }
       }
     }

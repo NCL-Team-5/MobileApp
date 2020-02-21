@@ -124,10 +124,4 @@
     <PackageReference Include="Xamarin.Essentials" Version="1.2.0" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
-  <ItemGroup>
-    <ProjectReference Include="..\SaggezzaApp\SaggezzaApp.csproj">
-      <Project>{977433AA-CF34-46CD-AC07-CF069B8D66D8}</Project>
-      <Name>SaggezzaApp</Name>
-    </ProjectReference>
-  </ItemGroup>
 </Project>

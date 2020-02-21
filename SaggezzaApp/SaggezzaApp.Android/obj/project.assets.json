@@ -1911,39 +1911,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rswif\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/saidhajhassan/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rswif\\source\\repos\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp.Android\\SaggezzaApp.Android.csproj",
+      "projectUniqueName": "/Users/saidhajhassan/Projects/MobileApp/SaggezzaApp/SaggezzaApp.Android/SaggezzaApp.Android.csproj",
       "projectName": "SaggezzaApp.Android",
-      "projectPath": "C:\\Users\\rswif\\source\\repos\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp.Android\\SaggezzaApp.Android.csproj",
-      "packagesPath": "C:\\Users\\rswif\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rswif\\source\\repos\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp.Android\\obj\\",
+      "projectPath": "/Users/saidhajhassan/Projects/MobileApp/SaggezzaApp/SaggezzaApp.Android/SaggezzaApp.Android.csproj",
+      "packagesPath": "/Users/saidhajhassan/.nuget/packages/",
+      "outputPath": "/Users/saidhajhassan/Projects/MobileApp/SaggezzaApp/SaggezzaApp.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\rswif\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/saidhajhassan/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "monoandroid90"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\rswif\\source\\repos\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp.csproj": {
-              "projectPath": "C:\\Users\\rswif\\source\\repos\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp\\SaggezzaApp.csproj"
+            "/Users/saidhajhassan/Projects/MobileApp/SaggezzaApp/SaggezzaApp/SaggezzaApp.csproj": {
+              "projectPath": "/Users/saidhajhassan/Projects/MobileApp/SaggezzaApp/SaggezzaApp/SaggezzaApp.csproj"
             }
           }
         }
