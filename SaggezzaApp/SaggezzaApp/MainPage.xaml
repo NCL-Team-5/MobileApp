@@ -55,7 +55,7 @@
             VerticalOptions="Start"/>
         
         <Label 
-            Text="Sign In With:" 
+            Text="Sign In With" 
             FontFamily="DINNextLTPro#400" 
             FontSize="18" 
             FontAttributes="None" 
