@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/saidhajhassan/Desktop/Saggezza App/SaggezzaApp/SaggezzaApp.Android/SaggezzaApp.Android.csproj": {}
+    "/Users/saidhajhassan/Projects/MobileApp/SaggezzaApp/SaggezzaApp.Android/SaggezzaApp.Android.csproj": {}
   },
   "projects": {
-    "/Users/saidhajhassan/Desktop/Saggezza App/SaggezzaApp/SaggezzaApp.Android/SaggezzaApp.Android.csproj": {
+    "/Users/saidhajhassan/Projects/MobileApp/SaggezzaApp/SaggezzaApp.Android/SaggezzaApp.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/saidhajhassan/Desktop/Saggezza App/SaggezzaApp/SaggezzaApp.Android/SaggezzaApp.Android.csproj",
+        "projectUniqueName": "/Users/saidhajhassan/Projects/MobileApp/SaggezzaApp/SaggezzaApp.Android/SaggezzaApp.Android.csproj",
         "projectName": "SaggezzaApp.Android",
-        "projectPath": "/Users/saidhajhassan/Desktop/Saggezza App/SaggezzaApp/SaggezzaApp.Android/SaggezzaApp.Android.csproj",
+        "projectPath": "/Users/saidhajhassan/Projects/MobileApp/SaggezzaApp/SaggezzaApp.Android/SaggezzaApp.Android.csproj",
         "packagesPath": "/Users/saidhajhassan/.nuget/packages/",
-        "outputPath": "/Users/saidhajhassan/Desktop/Saggezza App/SaggezzaApp/SaggezzaApp.Android/obj/",
+        "outputPath": "/Users/saidhajhassan/Projects/MobileApp/SaggezzaApp/SaggezzaApp.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [

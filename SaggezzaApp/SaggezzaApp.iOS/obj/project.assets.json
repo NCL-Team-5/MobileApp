@@ -959,11 +959,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/saidhajhassan/Desktop/Saggezza App/SaggezzaApp/SaggezzaApp.iOS/SaggezzaApp.iOS.csproj",
+      "projectUniqueName": "/Users/saidhajhassan/Projects/MobileApp/SaggezzaApp/SaggezzaApp.iOS/SaggezzaApp.iOS.csproj",
       "projectName": "SaggezzaApp.iOS",
-      "projectPath": "/Users/saidhajhassan/Desktop/Saggezza App/SaggezzaApp/SaggezzaApp.iOS/SaggezzaApp.iOS.csproj",
+      "projectPath": "/Users/saidhajhassan/Projects/MobileApp/SaggezzaApp/SaggezzaApp.iOS/SaggezzaApp.iOS.csproj",
       "packagesPath": "/Users/saidhajhassan/.nuget/packages/",
-      "outputPath": "/Users/saidhajhassan/Desktop/Saggezza App/SaggezzaApp/SaggezzaApp.iOS/obj/",
+      "outputPath": "/Users/saidhajhassan/Projects/MobileApp/SaggezzaApp/SaggezzaApp.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
